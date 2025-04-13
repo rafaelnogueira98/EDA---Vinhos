@@ -1,0 +1,1 @@
+Este projeto realiza uma Análise Exploratória de Dados (EDA) em um conjunto de dados sobre vinhos, contendo informações como país de origem, descrição, pontuação, preço, região, variedade de uva, entre outros. O objetivo é extrair insights valiosos para responder a perguntas específicas sobre a qualidade e características dos vinhos.
